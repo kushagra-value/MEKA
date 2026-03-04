@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+chroma_db/
+query_history.json
+node_modules/
+frontend/dist/
+.vite/
+*.log
+.DS_Store
+Thumbs.db
+venv/
+Walkthrough.md
